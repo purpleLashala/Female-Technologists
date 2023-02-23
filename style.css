@@ -1,0 +1,53 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.ada-bg{
+  background-color: #6200b3;
+}
+
+.ada {
+  background-image: url("https://media.newyorker.com/photos/590952556552fa0be682c157/master/w_2560%2Cc_limit/ada-lovelace-290.jpeg");
+  border-radius: 150px;
+  border:5px solid #740094;
+  padding: 11%;
+  width: 200px;
+  height: 200px;
+  box-shadow: 10px 10px 5px 5px #5b0085;
+  color: #00fffb;
+  font-weight: bolder;
+}
+
+
+h1 {
+  position: absolute; top:13%;
+  font-family:'Lucida Handwriting', cursive;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align:center;
+  width: 110%;
+  color: #00fbff;
+}
+
+#menu {
+  list-style-type: square;
+  position: absolute; bottom:16%;
+  color:#2bff00;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: xx-large;
+  text-decoration: inherit;
+  padding-left: 100px;
+}
+
+#info {
+  padding-left: 330px;
+  position: absolute; top:40%;
+}
+  
+
+
+
+
+
+
